@@ -57,4 +57,4 @@ Model Score:
 
 Hasnain Shaikh
 
-AI Enthusiast | Future ML Engineer
+FY BSC AI 
